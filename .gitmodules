@@ -1,0 +1,3 @@
+[submodule "udesc-ann"]
+	path = udesc-ann
+	url = https://github.com/peedrofernandes/udesc-ann.git
