@@ -7,3 +7,6 @@
 [submodule "udesc-ban1"]
 	path = udesc-ban1
 	url = https://github.com/peedrofernandes/udesc-ban1.git
+[submodule "udesc-cal"]
+	path = udesc-cal
+	url = https://github.com/peedrofernandes/udesc-cal.git
