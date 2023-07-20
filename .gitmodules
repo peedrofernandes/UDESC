@@ -31,3 +31,6 @@
 [submodule "udesc-tec"]
 	path = udesc-tec
 	url = https://github.com/peedrofernandes/udesc-tec.git
+[submodule "udesc-teg"]
+	path = udesc-teg
+	url = https://github.com/peedrofernandes/udesc-teg.git
