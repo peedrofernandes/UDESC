@@ -16,3 +16,6 @@
 [submodule "udesc-eda"]
 	path = udesc-eda
 	url = https://github.com/peedrofernandes/udesc-eda.git
+[submodule "udesc-eda2"]
+	path = udesc-eda2
+	url = https://github.com/peedrofernandes/udesc-eda2.git
