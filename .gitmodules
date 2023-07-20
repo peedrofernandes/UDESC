@@ -1,3 +1,6 @@
 [submodule "udesc-ann"]
 	path = udesc-ann
 	url = https://github.com/peedrofernandes/udesc-ann.git
+[submodule "udesc-aoc"]
+	path = udesc-aoc
+	url = https://github.com/peedrofernandes/udesc-aoc.git
