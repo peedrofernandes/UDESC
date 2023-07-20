@@ -13,3 +13,6 @@
 [submodule "udesc-com"]
 	path = udesc-com
 	url = https://github.com/peedrofernandes/udesc-com
+[submodule "udesc-eda"]
+	path = udesc-eda
+	url = https://github.com/peedrofernandes/udesc-eda.git
