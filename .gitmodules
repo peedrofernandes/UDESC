@@ -25,3 +25,6 @@
 [submodule "udesc-poo"]
 	path = udesc-poo
 	url = https://github.com/peedrofernandes/udesc-poo.git
+[submodule "udesc-soft"]
+	path = udesc-soft
+	url = https://github.com/peedrofernandes/udesc-soft
