@@ -22,3 +22,6 @@
 [submodule "udesc-lpg"]
 	path = udesc-lpg
 	url = https://github.com/peedrofernandes/udesc-lpg.git
+[submodule "udesc-poo"]
+	path = udesc-poo
+	url = https://github.com/peedrofernandes/udesc-poo.git
