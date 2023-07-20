@@ -28,3 +28,6 @@
 [submodule "udesc-soft"]
 	path = udesc-soft
 	url = https://github.com/peedrofernandes/udesc-soft
+[submodule "udesc-tec"]
+	path = udesc-tec
+	url = https://github.com/peedrofernandes/udesc-tec.git
